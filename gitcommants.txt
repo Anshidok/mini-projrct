@@ -1,0 +1,37 @@
+git init
+
+git status
+
+git commit -m "message"		=create commit
+
+git log     =display commits
+
+git checkout	=change commit
+
+git log --all
+
+git checkout master
+
+git branch (name)  	=create a new branch
+
+
+git merge (branch)
+
+git diff = show differents
+
+
+git remote add origin https://github.com/Anshidok/anshid.git
+
+
+git pull(fetch + merge)
+
+git push origin master/second
+
+
+------------------------------------------------------
+
+1.git status
+2.git add (folder)
+3.git commit -m "message"
+4.git remote add origin repo url(https://github.com/Anshidok/anshid.git)
+5.git push origin
